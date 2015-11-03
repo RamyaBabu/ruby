@@ -38,7 +38,7 @@ class RubySDKHelloWorldPluginApp < AppAbstract
             "project" => @project,
             "job" => @jobname,
             "context" => “greeting”,
-            "id" => @1,
+            "id" => @src,
             "data" => message
         }
         #pass the filled in hash object to the following method
