@@ -1,5 +1,5 @@
 {
-  "applocation": "ruby /var/cloudbox/CBApp/RubySDK_HelloWorld_plugin/src/tst.rb",
+  "applocation": "ruby /var/cloudbox/CBApp/ruby/src/tst.rb",
   "apptype": "SHELL",
   "outputLogPath": "RubySDK_HelloWorld_plugin.cloudbox",
   "params": {  
