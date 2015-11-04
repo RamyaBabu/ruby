@@ -37,7 +37,7 @@ class RubySDKHelloWorldPluginApp < AppAbstract
             "domain" => @domain,
             "project" => @project,
             "job" => @jobname,
-            "context" => “greeting”,
+            "context" => @greeting_param,
             "id" => @id,
             "data" => message
         }
